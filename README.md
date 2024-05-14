@@ -24,8 +24,10 @@ Develop research questions to gain insights into the identified business problem
 - Prescriptive Analytics: Recommend actions and interventions to enhance customer loyalty and satisfaction.
 
 **2. Potential Challenges Assessment**
+
 Identify potential obstacles such as data quality issues, privacy concerns, integration challenges, and organizational resistance to change.
 
 **3. Mitigation Strategies Development**
+
 Develop strategies to address identified challenges and ensure the successful implementation of the analytics project.
 
